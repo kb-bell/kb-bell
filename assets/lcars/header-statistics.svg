@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="46" viewBox="0 0 320 46" role="img" aria-label="📊 STARFLEET STATISTICS">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5B8CFF"/>
+      <stop offset="100%" stop-color="#6FA8FF"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 H297.0 A23.0,23.0 0 0 1 297.0,46 H0 Z" fill="url(#g)"/>
+  <text x="22" y="30" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="0.5" fill="#000000">📊 STARFLEET STATISTICS</text>
+</svg>

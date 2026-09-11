@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-label="Stardate status">
+  <style>
+    .line { fill: #24292f; }
+    @media (prefers-color-scheme: dark) {
+      .line { fill: #e6edf3; }
+    }
+  </style>
+  <text class="line" x="450" y="28" text-anchor="middle" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Stardate 2026.254 | Sector 001 | Status: ACTIVE</text>
+  <text class="line" x="450" y="54" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="15" font-style="italic">"The needs of the many outweigh the needs of the few... lines of code."</text>
+</svg>

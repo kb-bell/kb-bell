@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="46" viewBox="0 0 440 46" role="img" aria-label="📡 HAILING FREQUENCIES (CONTACT)">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF6FA8"/>
+      <stop offset="100%" stop-color="#FF8CC2"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,0 H417.0 A23.0,23.0 0 0 1 417.0,46 H0 Z" fill="url(#g)"/>
+  <text x="22" y="30" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="0.5" fill="#000000">📡 HAILING FREQUENCIES (CONTACT)</text>
+</svg>
