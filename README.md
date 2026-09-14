@@ -169,6 +169,8 @@ When an AI API is giving away system prompts or other model context, I treat it 
 
 **[GitHub](https://github.com/kb-bell)** | **[LinkedIn](https://www.linkedin.com/in/kbnc)**
 
+**License:** MIT © 2026 KB Bell. Public labs use the same terms. If you reuse them, keep the copyright notice.
+
 ---
 
 ![STARFLEET OATH](./assets/lcars/header-oath.svg)
