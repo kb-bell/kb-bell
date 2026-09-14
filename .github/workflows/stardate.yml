@@ -13,7 +13,7 @@ jobs:
   stardate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Update stardate in footer SVG
         run: python3 scripts/update_stardate.py
